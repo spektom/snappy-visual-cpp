@@ -7,4 +7,5 @@ Release
 *.aps
 *.user
 *.nupkg
-
+.vs
+packages/*/
