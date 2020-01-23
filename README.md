@@ -7,6 +7,7 @@ Changes:
 
  * Re-targeted to VS2019.
  * Removed architecture suffix from library.
+ * Export C++ symbols.
 
 ### Building
 
